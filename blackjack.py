@@ -1,5 +1,3 @@
-
-
 import random
 
 FACE_CARD_VALUE = 10
